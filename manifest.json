@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A list of songs that replace unwanted music disks: \n cat --> California Dreamin' - The Mamas & The Papas \n blocks --> My Shot - Lin-Manuel Miranda \n Precipice --> Rainbows & Stuff - Insane Clown Posse /n Other songs can be requested via the group!",
+        "name": "CHILLEN SMP - Album",
+        "uuid": "7c203514-a40a-4720-9a54-5f91fadece46",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 21, 90 ]
+    },
+    "modules": [
+        {
+            "description": "A list of songs that replace unwanted music disks: \n cat --> California Dreamin' - The Mamas & The Papas \n blocks --> My Shot - Lin-Manuel Miranda \n Precipice --> Rainbows & Stuff - Insane Clown Posse /n Other songs can be requested via the group!",
+            "type": "resources",
+            "uuid": "1f7742d3-1af6-43b6-a35a-a70ad9e57e8d",
+            "version": [0, 0, 1]
+        }
+    ]
+}
