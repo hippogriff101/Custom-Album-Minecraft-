@@ -1,7 +1,7 @@
 # Custom Album in Minecraft
 
 This resource pack replaces three music discs in Minecraft Bedrock Edition with custom songs on my Realm.
-It works on Windows, Console, and Mobile.
+It works on Windows, Console, and Mobile. Sonngs were voted on by my fellow server members.
 
 ## Disclaimer
 
